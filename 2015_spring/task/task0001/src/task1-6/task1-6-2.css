@@ -1,0 +1,21 @@
+#parent {
+  height: 300px;
+  width: 600px;
+  border: 5px;
+  border-color: pink;
+  border-style: solid;
+  border-radius: 2%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  display: table;
+  transform: translate(-50%, -50%);
+}
+
+#parent p {
+  font-style: italic;
+  font-size: large;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
