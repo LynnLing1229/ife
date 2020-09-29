@@ -1,0 +1,22 @@
+#first-div {
+  width: 300px;
+  height: 600px;
+  position: absolute;
+  left: 0px;
+  background-color: pink;
+}
+
+#second-div {
+  width: 300px;
+  height: 600px;
+  position: absolute;
+  right: 0px;
+  background-color: aquamarine;
+}
+
+#third-div {
+  height: 600px;
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: grey;
+}

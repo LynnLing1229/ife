@@ -1,0 +1,13 @@
+#background {
+  background-color: pink;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.sample {
+  background-color: aquamarine;
+  height: 300px;
+  width: 300px;
+  margin: 50px;
+}

@@ -1,0 +1,22 @@
+#background {
+  background-color: grey;
+  height: 800px;
+  display: flex;
+  flex-flow: row-reverse wrap;
+  justify-content: space-around;
+}
+
+#first-div {
+  width: 300px;
+  background-color: pink;
+}
+
+#second-div {
+  width: 300px;
+  background-color: aquamarine;
+}
+
+#third-div {
+  width: 300px;
+  background-color: brown;
+}
